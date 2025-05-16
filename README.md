@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; white-space: nowrap; gap: 10px;">
-    <img src="https://image.noelshack.com/fichiers/2024/44/6/1730568505-37bfb2bb-301d-48f8-8d71-3d9b0e636132.jpg" alt="Logo" width="60" vertical-align: middle;/>
+    <img src="https://image.noelshack.com/fichiers/2025/20/5/1747409059-17c1009b-17db-4f61-a34d-beb4363adfe2.jpg" alt="Logo" width="60" vertical-align: middle;/>
     <h1 style="margin: 0; font-size: 24px;">CompanyAnalyzer</h1>
 </div>
 
