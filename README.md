@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; white-space: nowrap; gap: 10px;">
     <img src="https://image.noelshack.com/fichiers/2024/44/6/1730568505-37bfb2bb-301d-48f8-8d71-3d9b0e636132.jpg" alt="Logo" width="60" vertical-align: middle;/>
-    <h1 style="margin: 0; font-size: 24px;">CompanyScraper</h1>
+    <h1 style="margin: 0; font-size: 24px;">CompanyAnalyzer</h1>
 </div>
 
 **CompanyAnalyzer** est un outil permettant d’extraire automatiquement les données essentielles d’une fiche entreprise sur le site web [pappers.fr](https://www.pappers.fr/), en simulant un navigateur avec Selenium. Les informations sont extraites et affichées sous forme de tableau lisible dans le terminal.
