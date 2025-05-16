@@ -73,7 +73,7 @@ python company_scraper.py
 | Nom                         | EXEMPLE SARL                                         |
 | SIREN                       | 123 456 789                                          |
 | SIRET (siège)               | 123 456 789 00010                                    |
-| Forme juridique             | Société à responsabilité limitée                    |
+| Forme juridique             | Société à responsabilité limitée                     |
 | Numéro de TVA               | FR123456789                                          |
 | Inscription au RCS          | Paris B 123 456 789                                  |
 | Inscription au RNE          | Oui                                                  |
