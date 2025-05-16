@@ -97,7 +97,7 @@ python company_scraper.py
 ## Remarques
 
 - Les champs affichés peuvent varier selon la page ciblée.
-- Le scraping est réalisé de manière furtive, mais reste soumis aux limitations du site (CAPTCHA, accès restreint, etc.).
+- Le scraping est réalisé de manière furtive, mais reste soumis aux limitations du site.
 - Si certaines données ne sont pas trouvées, un message d’erreur lisible est affiché à la place.
 
 ## Auteurs
