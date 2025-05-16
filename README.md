@@ -55,7 +55,7 @@ python company_scraper.py
 2. Entrez l’URL de la fiche entreprise lorsque le script vous le demande :
 
 ```bash
-👉 Entrez l'URL de la fiche entreprise : [https://www.exemple.com/entreprise/123456789](https://www.pappers.fr/entreprise/google-france-443061841)
+👉 Entrez l'URL de la fiche entreprise : https://www.pappers.fr/entreprise/google-france-443061841
 ```
 
 3. Les informations seront affichées sous forme de tableau clair dans le terminal :
