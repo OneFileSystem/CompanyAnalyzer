@@ -3,7 +3,7 @@
     <h1 style="margin: 0; font-size: 24px;">CompanyScraper</h1>
 </div>
 
-**CompanyAnalyzer** est un outil permettant d’extraire automatiquement les données essentielles d’une fiche entreprise sur un site web (type societe.com ou equivalent), en simulant un navigateur avec Selenium. Les informations sont extraites et affichées sous forme de tableau lisible dans le terminal.
+**CompanyAnalyzer** est un outil permettant d’extraire automatiquement les données essentielles d’une fiche entreprise sur le site web [pappers.fr](https://www.pappers.fr/), en simulant un navigateur avec Selenium. Les informations sont extraites et affichées sous forme de tableau lisible dans le terminal.
 
 ## Sommaire
 
@@ -55,7 +55,7 @@ python company_scraper.py
 2. Entrez l’URL de la fiche entreprise lorsque le script vous le demande :
 
 ```bash
-👉 Entrez l'URL de la fiche entreprise : https://www.exemple.com/entreprise/123456789
+👉 Entrez l'URL de la fiche entreprise : [https://www.exemple.com/entreprise/123456789](https://www.pappers.fr/entreprise/google-france-443061841)
 ```
 
 3. Les informations seront affichées sous forme de tableau clair dans le terminal :
